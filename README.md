@@ -1,11 +1,5 @@
 # Remote-Tech-Support-Database
-
-# Remote Tech Support Database
-
-## CIS 344 – Database Management
-
-**Student:** Maryam Diallo  
-**Semester:** Fall 2026  
+  
 **Project:** Remote Tech Support Services Database
 
 ## Project Overview
